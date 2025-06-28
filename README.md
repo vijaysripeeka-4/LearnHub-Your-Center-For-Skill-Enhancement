@@ -116,7 +116,7 @@ README.md
 ## 📦 Installation & Setup
 
 # Clone repository
-git clone https://github.com/yourusername/learnhub.git
+git : https://github.com/vijaysripeeka-4/LearnHub-Your-Center-For-Skill-Enhancement/tree/main
 cd learnhub
 
 # Backend setup
@@ -136,3 +136,7 @@ Built as part of the SmartInternz Internship Program.
 
 
 Let me know your GitHub username or repo URL if you want it personalized, or if you'd like a `.md` file download.
+
+project done:vijaysri peeka
+
+emailid:vijaysripeeka4@gmail.com
